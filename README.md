@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Jason! I am thrilled to be navigating the waters of Technology industry and 
 I know that it is a long road that requires diligent dedicated, consistent work. Fortunately
-for me, as a former Marine and Recovered alcoholic, Hallelujah, I am blessed with
+for me, as a former Marine I am blessed with
 a learned level of personal accountablilty and as a man of faith first, I am blessed to have empathy to see 
 and help others when I notice them struggling. It is my great honor to be on this journey with all of you!!
 If I ever tell you I love you, I mean it.
