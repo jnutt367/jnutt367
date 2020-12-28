@@ -14,7 +14,8 @@ If you want to know more about me, please ask me...
 - 💬 Ask me about ...How I got into this?
 - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I only found out what Python was named after, after I'd studied it for 3 days lol.
+- ⚡ Fun fact: ...There are people alive that have never seen Boba Fett in the Original Trilogy.
+               ...true story, I spoke with one recently. 
 <!--
 **jnutt367/jnutt367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
