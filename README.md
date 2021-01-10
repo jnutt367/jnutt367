@@ -7,7 +7,10 @@ and help others when I notice them struggling. It is my great honor to be on thi
 If I ever tell you I love you, I mean it.
 
 If you want to know more about me, please ask me...
-🔭 I’m currently working on ...#100daysofcode in the Python track.
+🔭 I’m currently working on ...#100daysofcode and my passion project
+                            ...it's called the Spectrum and it's intent 
+                            ...is to provide more resources in less locations
+                            ...to allow more time for what's important, each other.
 - 🌱 I’m currently learning ...PHP and SQL
 - 👯 I’m looking to collaborate on ... Anything spectrum or special needs...
 - 🤔 I’m looking for help with ...ideas to help children like mine...
