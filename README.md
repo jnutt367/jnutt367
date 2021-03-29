@@ -1,19 +1,11 @@
 ### Hi there 👋
-I'm Jason! I am thrilled to be navigating the waters of Technology industry and 
-I know that it is a long road that requires diligent dedicated, consistent work. Fortunately
-for me, as a former Marine I am blessed with
-a learned level of personal accountablilty and as a man of faith first, I am blessed to have empathy to see 
-and help others when I notice them struggling. It is my great honor to be on this journey with all of you!!
-If I ever tell you I love you, I mean it.
-
-If you want to know more about me, please ask me...
-🔭 I’m currently working on ...#100daysofcode and my passion project
-                            ...it's called the Spectrum and it's intent 
-                            ...is to provide more resources in less locations
-                            ...to allow more time for what's important, each other.
-- 🌱 I’m currently learning ...PHP and SQL
-- 👯 I’m looking to collaborate on ... Anything spectrum or special needs...
-- 🤔 I’m looking for help with ...ideas to help children like mine...
+I'm Jason! I am updating my Github as of March 2021. 
+This is a new goal and skill of mine. To Keep my Github current.If you want to know more about me, please ask me...
+🔭 I’m currently working on ...#100daysofcode and my passion project.
+                  
+- 🌱 I’m currently learning ...Node, JavaScript, node_modules and npm packages...MongoDB when possible.
+- 👯 I’m looking to collaborate on ... Anything tech, that contributes to better communication and understanding of one another.
+- 🤔 I’m looking for help with ...Finding something to work on with others and finding opportunities in my new passion...Coding!
 - 💬 Ask me about ...How I got into this?
 - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
 - 😄 Pronouns: ...He/Him
