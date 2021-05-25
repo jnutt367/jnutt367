@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Jason! I am updating my Github as of May 2021. 
 This is a new goal and skill of mine. To Keep my Github current. If you want to know more about me, please ask me...
-🔭 I’m currently working on ...#100daysofcode and Animating Illustrations by way of GSAP3 and Ilnline SVG.
+🔭 I’m currently working on ...#100daysofcode and Animating Illustrations by way of GSAP3 and Inline SVG.
 - I sencerely enjoy teaching newbies how to do things. Just ask me.          
 - 🌱 I’m currently learning ..GSAP3 ScrollTrigger, overcoming obstacles and avoiding overlapping timelines, always more JavaScript!
 - 👯 I’m looking to collaborate on ... Anything tech, that contributes to better communication and understanding of one another.
