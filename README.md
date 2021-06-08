@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Jason! I am updating my Github as of June - July 2021. 
 This is a new goal and skill of mine. To Keep my Github current. If you want to know more about me, please ask me...
-🔭 I’m currently working on ...#100daysofcode and Learning the NextJs React framework to add to my skillset as a frontend React dev.
+🔭 I’m currently working on ... Learning the NextJs React framework to add to my skillset as a frontend React dev.
 - I sencerely enjoy teaching newbies how to do things. Just ask me.          
 - 🌱 I’m currently learning ..Next.js.
 - 👯 I’m looking to collaborate on ... You tell me. I'm open.
