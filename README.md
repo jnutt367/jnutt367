@@ -1,10 +1,10 @@
 ### Hi there 👋
-I'm Jason! I am updating my Github as of June - July 2021. 
-This is a new goal and skill of mine. To Keep my Github current. If you want to know more about me, please ask me...
-🔭 I’m currently working on ... Learning the NextJs React framework to add to my skillset as a frontend React dev.
+I'm Jason, a junior NERN developer ...
+
+🔭 I’m currently working on ...Building a social change (social media for social change activists) application to add to my skillset as a MongoDB, express, React, Node developer.
 - I sencerely enjoy teaching newbies how to do things. Just ask me.          
-- 🌱 I’m currently learning ..Next.js.
-- 👯 I’m looking to collaborate on ... You tell me. I'm open.
+- 🌱 I’m currently learning ..I am creating the simple functional components in my Social app, Just finished installing @material-ui.core. Oh and always more javascript.  
+- 👯 I’m looking to collaborate on ...Anything with a LICENSE that I find interesting or you do, I'm open.
 - 🤔 I’m looking for help with ...finding beneficial developer experience.
 - 💬 Ask me about ...How I got into this?
 - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
