@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jason, a junior NERN developer ...
+I'm Jason, a Junior MERN developer ...
 
 🔭 I’m currently working on ...Building a social change (social media for social change activists) application to add to my skillset as a MongoDB, express, React, Node developer.
 - I sencerely enjoy teaching newbies how to do things. Just ask me.          
