@@ -3,7 +3,7 @@ I'm Jason, a Junior MERN developer ...
 
 🔭 I’m currently working on ...Building Full Stack React and Serverless application following James Q. Quick in a course I am going through. Tweeting progress on that and other incremental growth.
 - I sencerely enjoy teaching newbies how to do things. Just ask me.          
-- 🌱 I’m currently learning ..I am creating the simple functional components in my Social app, Just finished installing @material-ui.core. Oh and always more javascript. Also, I learned the value of adding a license to my creative works! Yes!
+- 🌱 I’m currently learning ..React hooks by building a Typing game with React and serverless functions! Also, I learned the value of adding a license to my creative works! Yes!
 - 👯 I’m looking to collaborate on ...Anything with a LICENSE that I find interesting or you do, I'm open.
 - 🤔 I’m looking for help with ...finding beneficial developer experience.
 - 💬 Ask me about ...How I got into this?
