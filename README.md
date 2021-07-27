@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jason, a Junior MERN developer ...
+I'm Jason, a Junior MERN developer ...learning since 2019.
 
 🔭 I’m currently working on ...Building Full Stack React and Serverless application following James Q. Quick in a course I am going through. Tweeting progress on - 2000+ commits so far this year!
 - I sencerely enjoy teaching newbies how to do things. Just ask me.          
