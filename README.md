@@ -12,8 +12,8 @@ I'm Jason, a MERN developer ...learning since 2020.
 - 💬 Ask me about ...How I got into this?
 - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...my left foot has two webbed toes! 
-- 2000+ Commits so far this year! 
+- ⚡ Fun fact: ...my left foot has two webbed toes!
+- My brother sent me an itemized clone wars watch list! LOL.
 
 <!--
 **jnutt367/jnutt367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
