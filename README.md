@@ -2,7 +2,7 @@
 I'm Jason, a MERN developer ...learning since 2020.
 
 🔭 I’m currently working on ...Creating (From concept, to project management, design, architecture, installation, development, testing and publicaion/ deployment ) a full Stack MERN app with express React and MongoDB with A friend of mine, will also be posting about progress on social media. It's going to be something to help families that deal with autism in some small way or large, we don't know yet ourselves.
-
+🔭 I’m also currently working on ...Completing courses toward MongoDB Mastery, and building an E-Commerce with MongoDB Realm and Next.js
 - Building Full Stack React and Serverless application following James Q. Quick in a course I am going through.
 - 2100+ commits so far this year!
 - 
