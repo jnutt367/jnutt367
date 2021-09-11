@@ -23,14 +23,3 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>]
 [<img align="left" alt="Sass" width="26px" src="https://img.icons8.com/color/48/000000/sass.png"/>]
 
-
-
-
-
-<!--
-**jnutt367/jnutt367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
--->
