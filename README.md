@@ -1,4 +1,4 @@
-## Hi there I'm Jason Nutt aka-jnutt367👋
+## Hi there I'm Jason Nutt aka [JasonNutt14][https://twitter.com/JasonNutt14] 👋
 
 ## I'm a husband, dad, developer and teacher of many things.
 🔭 I’m currently working on ...Creating a useful app for my son Ian, who has autism. Collaborating with a friend. 
