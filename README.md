@@ -21,5 +21,5 @@
 [<img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>]
 [<img align="left" alt="React" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/react.png"/>]
 [<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>]
-[<img align="left" alt="Sass" width="26px" src="https://img.icons8.com/color/48/000000/sass.png"/>]
+[<img align="left" alt="Sass" width="26px" src="https://img.icons8.com/color/48/sass.png"/>]
 
