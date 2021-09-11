@@ -1,4 +1,4 @@
-## Hi there I'm Jason Nutt aka [DataNutt]["https://www.linkedin.com/in/jnuttlovedisciple/"] 👋
+## Hi there I'm Jason Nutt aka [DataNutt](https://www.linkedin.com/in/jnuttlovedisciple/) 👋
 
 ## I'm a husband, dad, developer and teacher of many things.
 🔭 I’m currently working on ...Creating a useful app for my son Ian, who has autism. Collaborating with a friend. 
