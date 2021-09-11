@@ -23,4 +23,6 @@
 [<img align="left" alt="nodejs" width="26px" src="https://img.icons8.com/color/48/nodejs.png"/>]
 [<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/mongodb.png"/>]
 [<img align="left" alt="Sass" width="26px" src="https://img.icons8.com/color/48/sass.png"/>]
+[<img align="left" alt="git" src="https://img.icons8.com/color/48/git.png"/>]
+[<img align="left" alt="bash" src="https://img.icons8.com/plasticine/100/bash.png"/>]
 
