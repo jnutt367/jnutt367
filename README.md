@@ -1,8 +1,11 @@
 ## Hi there I'm Jason Nutt aka [LinkedNutt](https://www.linkedin.com/in/jnuttlovedisciple/) aka [TweetNutt](https://twitter.com/JasonNutt14) aka [FaceNutt](https://www.facebook.com/jason.nutt.1481/) 👋 
 
 ## I'm a husband, dad, developer and teacher of many things.
-🔭 I’m currently working on ...Creating a useful app for my son Ian, who has autism. Collaborating with a friend. 
-🔭 I’m also currently working on ...Completing courses in MongoDB University and growing by building an E-Commerce with MongoDB Realm and Next.js 
+🔭 I’m currently working on ...Yet another E-Commerce site. Adding extra features each iteration. 
+
+🔭 I’m also currently working on ...Completing courses in MongoDB University and growing by building Charts, apps & other side projects.
+
+🔭 ...And I’m currently working on ...Creating a useful app for my son Ian, who has autism. Collaborating with a friend. 
 
 
 - 🌱 I’m currently learning ..growing in MongoDB, Next and React by building 
