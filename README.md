@@ -12,8 +12,8 @@
 - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...my left foot has two webbed toes!
-- ⚡ Not fun fact: My brother sent me an itemized clone wars watch list...and though I would have time to watch it.! LOL.
-- ⚡ ...and you know I did haha.
+- ⚡ Not fun fact: My brother sent me an itemized clone wars watch list...and thought I would have time to watch it.! LOL.
+- ⚡ ...I watched it all!
 ### Languages and Tools:
 <img align="left" alt="visual studio code" width="26px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png">
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
