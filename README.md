@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning ..growing in MongoDB, Next and React by building 
 - 👯 I’m looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open.
 - 🤔 I’m looking for help with ...MongoDB and Next.js/ React projects!
+- 🤔 I’m also looking for help with ... implementing gsap3 animations into Nextjs and React apps with SDKs. Researching currently. 
 - 💬 Ask me about ...How I got into this?
 - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
 - 😄 Pronouns: ...He/Him
