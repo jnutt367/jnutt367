@@ -1,7 +1,9 @@
 ## Hi there I'm Jason Nutt aka [LinkedNutt](https://www.linkedin.com/in/jnuttlovedisciple/) aka [TweetNutt](https://twitter.com/JasonNutt14) aka [FaceNutt](https://www.facebook.com/jason.nutt.1481/) 👋 and...the much delayed [YouTubeNutt](https://www.youtube.com/user/JNUTT1000)
 
 ## I'm a husband, dad, developer and teacher of many things...including English.
-🔭 I’m currently working on ...Yet another E-Commerce site. Adding extra features each iteration. 
+🔭 I’m currently working on ...Growing my Youtube audience by adding content through building and teaching others what I learn.
+
+ Expanding on an E-Commerce site. Adding extra features each iteration. The series I have followed to get this far is the [Jumpstart 2021 series](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) I highly recommend!
 
 🔭 I’m also currently working on ...Completing courses in MongoDB University and growing by building Charts, apps & other side projects.
 
