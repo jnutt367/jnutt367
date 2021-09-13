@@ -1,7 +1,5 @@
-## Hi there I'm Jason Nutt aka [LinkedNutt](https://www.linkedin.com/in/jnuttlovedisciple/) aka [TweetNutt](https://twitter.com/JasonNutt14) aka [FaceNutt](https://www.facebook.com/jason.nutt.1481/) 👋 
-## and...the much delayed [YouTubeNutt](https://www.youtube.com/user/JNUTT1000)
-## This channel will be for teaching others what I have learned while learning the fundamentals of making a youtube channel FINALLY. Yes, I am afraid. But it's ok. God is good.
-## 💬 Ask me anything about this channel & we can figure it's direction out together. Be one if the ones who help get it off the ground!!!
+## Hi there I'm Jason Nutt aka [LinkedNutt](https://www.linkedin.com/in/jnuttlovedisciple/) aka [TweetNutt](https://twitter.com/JasonNutt14) aka [FaceNutt](https://www.facebook.com/jason.nutt.1481/) 👋 and...the much delayed [YouTubeNutt](https://www.youtube.com/user/JNUTT1000)
+
 ## I'm a husband, dad, developer and teacher of many things...including English.
 🔭 I’m currently working on ...Yet another E-Commerce site. Adding extra features each iteration. 
 
@@ -31,4 +29,5 @@
 <img align="left" alt="Sass" width="26px" src="https://img.icons8.com/color/48/sass.png">
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/48/git.png">
 <img align="left" alt="bash" width="26px" src="https://img.icons8.com/plasticine/100/bash.png">
-
+## [YouTubeNutt](https://www.youtube.com/user/JNUTT1000) This channel will be for teaching others what I have learned while learning the fundamentals of making a youtube channel FINALLY. Yes, I am afraid. But it's ok. God is good.
+## 💬 Ask me anything about this channel & we can figure it's direction out together. Be one if the ones who help get it off the ground!!!
