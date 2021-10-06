@@ -22,7 +22,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
 <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
 <img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/48/javascript--v2.png">
-<img align="left" alt="Next" width="26px" src="https://img.icons8.com/office/16/000000/next.png">
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/office/16/000000/react.png">
 <img align="left" alt="nodejs" width="26px" src="https://img.icons8.com/color/48/nodejs.png">
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/mongodb.png">
