@@ -1,18 +1,15 @@
 ## Hi there I'm Jason Nutt aka [LinkedNutt](https://www.linkedin.com/in/jnuttlovedisciple/) aka [TweetNutt](https://twitter.com/JasonNutt14) aka [FaceNutt](https://www.facebook.com/jason.nutt.1481/) 👋 and...the much delayed [YouTubeNutt](https://www.youtube.com/user/JNUTT1000)
 
 ## I'm a husband, dad, developer and teacher of many things...including English.
-🔭 I’m currently working on ...Growing my Youtube audience by adding content through building and teaching others what I've learned over the past couple years searching for answers.
-
  Expanding on an E-Commerce site. Adding extra features each iteration. The series I have followed to get this far is the [Jumpstart 2021 series](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) I highly recommend!
 
 🔭 I’m also currently working on ...Completing courses in MongoDB University and growing by building Charts, apps & other side projects.
 
-🔭 ...And I’m currently working on ...Creating a useful app for my son Ian, who has autism. Collaborating with a friend. 
+🔭 ...And I’m currently working on ...Creating a useful app for my son Ian, who has autism. 
 
 
-- 🌱 I’m currently learning ..growing in MongoDB, Next and React by building 
+- 🌱 I’m currently growing in MongoDB, Next and React by building things with them. Also, learning GraphQL.
 - 👯 I’m looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open.
-- 🤔 I’m looking for help with ...MongoDB and Next.js/ React projects!
 - 🤔 I’m also looking for help with ... implementing gsap3 animations into Nextjs and React apps with SDKs. Researching currently. 
 - 💬 Ask me about ...How I got into this?
 - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
