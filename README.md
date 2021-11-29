@@ -1,4 +1,4 @@
-## Hi there I'm Jason Nutt aka [LinkedNutt](https://www.linkedin.com/in/jnuttlovedisciple/) aka [TweetNutt](https://twitter.com/JasonNutt14) aka [FaceNutt](https://www.facebook.com/jason.nutt.1481/) 👋 and...the much delayed [YouTubeNutt](https://www.youtube.com/user/JNUTT1000)
+## Hi there I'm Jason Nutt aka [LinkedNutt](https://www.linkedin.com/in/jnuttlovedisciple/) aka [TweetNutt](https://twitter.com/JasonNutt14) aka [FaceNutt](https://www.facebook.com/jason.nutt.1481/) 👋 and...the much delayed [Live Love Learn](https://www.youtube.com/user/JNUTT1000) Where I am writing out the Bible, with digital animations to make it visually appealing and for practicing concepts and creativity. 
 
 ## I'm a husband, dad, developer and teacher of many things...including English.
  Expanding on an E-Commerce site. Adding extra features each iteration. The series I have followed to get this far is the [Jumpstart 2021 series](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) I highly recommend!
@@ -9,7 +9,7 @@ I am using the concepts leaned in the series and am in the process of fleshing o
 🔭 ...And I’m currently working on ...Creating a useful app for my son Ian, who has autism. 
 
 
-- 🌱 I’m currently growing in MongoDB, Next and React by building things with them. Also, learning GraphQL.
+- 🌱 I’m currently growing in Next.js and React.js by building things with them. Also, learning GraphQL.
 - 👯 I’m looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open.
 - 🤔 I’m also looking for help with ... implementing gsap3 animations into Nextjs and React apps with SDKs. Researching currently. 
 - 💬 Ask me about ...How I got into this?
