@@ -1,13 +1,22 @@
-## Hi there I'm Jason Nutt aka [LinkedNutt](https://www.linkedin.com/in/jnuttlovedisciple/) aka [TweetNutt](https://twitter.com/JasonNutt14) aka [FaceNutt](https://www.facebook.com/jason.nutt.1481/) 👋 and...the much delayed [Live Love Learn](https://www.youtube.com/user/JNUTT1000) Where I am writing out the Bible, with digital animations to make it visually appealing and for practicing concepts and creativity. 
+## Hi there I'm Jason Nutt👋
+### Husband, Father, Doggy Dad
+### Javascript, React Developer
+### MongoDB Student/Developer
+### Builder/ Creator👋
+### Daily Learner
+### Community Enthusiast
+### I like to earn badges lol
+## Here are the places I post things about coding and technology and things of a geek nature, as tis is who I am...
+[LinkeIn](https://www.linkedin.com/in/jnuttlovedisciple/)  [Twitter](https://twitter.com/JasonNutt14) aka [Facebook](https://www.facebook.com/jason.nutt.1481/) 👋 and...the much delayed [A Place for Creating / with Jason Nutt](https://www.youtube.com/user/JNUTT1000) 
 
+
+
+🔭 ...And I’m currently working on ...Restarting the #100daysofcode journey with newfound encouragement.
 ## I'm a husband, dad, developer and teacher of many things...including English.
- Expanding on an E-Commerce site. Adding extra features each iteration. The series I have followed to get this far is the [Jumpstart 2021 series](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) I highly recommend!
+ Expanding on an E-Commerce site. Adding extra features each iteration. The series I have followed to get this far is the [Jumpstart 2021 series](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) I highly recommend! 
 
 I am using the concepts leaned in the series and am in the process of fleshing out the world we played as RPG character adventurers back in the day. It's a fully fullstacked application and growing. If someone calls me an intern in my next interview it will explode my head! lol.
 🔭 I’m also currently working on ...Completing courses in MongoDB University and growing by building Charts, apps & other side projects.
-
-🔭 ...And I’m currently working on ...Creating a useful app for my son Ian, who has autism. 
-
 
 - 🌱 I’m currently growing in Next.js and React.js by building things with them. Also, learning GraphQL.
 - 👯 I’m looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open.
