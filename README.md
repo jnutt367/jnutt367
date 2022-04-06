@@ -17,7 +17,7 @@
 <img align="left" alt="Sass" width="26px" src="https://img.icons8.com/color/48/sass.png">
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/48/git.png">
 <img align="left" alt="bash" width="26px" src="https://img.icons8.com/plasticine/100/bash.png">
-
+### 🔭 ... Building a D&D Character examples (This is a Next.js application that utilizes a MongoDB atlas cluster & MongoDB Realm for it's backend, designed & queried by yours truly) application that includes a javascript dice roller and encounter suggestions link.
 ## Here are the places I post things about coding and technology and things of this nature.
 [LinkeIn](https://www.linkedin.com/in/jnuttlovedisciple/)  [Twitter](https://twitter.com/JasonNutt14) aka [Facebook](https://www.facebook.com/jason.nutt.1481/) 👋 and...the much delayed [A Place for Creating / with Jason Nutt](https://www.youtube.com/user/JNUTT1000) 
 ### 🔭 ...And I’m currently working on ...Restarting the #100daysofcode journey with newfound encouragement.
