@@ -23,7 +23,7 @@
 [LinkeIn](https://www.linkedin.com/in/jnuttlovedisciple/)  [Twitter](https://twitter.com/JasonNutt14)  👋 and...the much delayed [A Place for Creating / with Jason Nutt](https://www.youtube.com/user/JNUTT1000) 
 # 🔭 ...I've been building a D&D Character examples app(This is a Next.js application that utilizes a MongoDB atlas cluster & MongoDB Realm for it's backend, designed & queried by yours truly) that includes a javascript dice roller and encounter suggestions link. More to come. Building as I grow.
 # 🔭 ...And I’m currently working on ...Restarting the #100daysofcode journey with newfound encouragement...
-### I will be posting about that in the MongoDB forums as well. [MongoDBCommunity](https://www.mongodb.com/community/forums/invites/tW7w3BZ6T8)
+# I will be posting about that in the MongoDB forums as well. [MongoDBCommunity](https://www.mongodb.com/community/forums/invites/tW7w3BZ6T8)
 
 ### Expanding on an E-Commerce site. Adding extra features each iteration. The series I have followed to get this far is the [Jumpstart 2021 series](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) I highly recommend! 
 
