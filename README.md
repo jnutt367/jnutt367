@@ -22,9 +22,10 @@
 [LinkeIn](https://www.linkedin.com/in/jnuttlovedisciple/)    👋 of course!
 
 
-### Expanding on an E-Commerce site. Adding extra features each iteration. The series I have followed to get this far is the [Jumpstart 2021 series](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) 
 
-# - 🌱 I’m currently working on a wbsite for a fiend's pet sitting business and others.
+
+# - 🌱 I’m currently working on a website for a fiend's pet sitting business called Waggin' Right's find it here now! [ Waggin' Right's](https://waggin-rights.vercel.app/) , it is still being remodeled but it will get there for her. Thanks for letting me work on it my frind... and others.
+### Expanding on an E-Commerce site. Adding extra features each iteration. The series I have followed to get this far is the [Jumpstart 2021 series](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) 
 # - 👯 I’m looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open.
 # - 🤔 I’m also looking for help with ... Finding my first Professional Role with a company building react(Next.js) apps and/or websites. 
 # - 💬 Ask me about ...How I got into this?
