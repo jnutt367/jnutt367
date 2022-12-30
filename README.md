@@ -1,8 +1,8 @@
 ## Hi there I'm Jason Nutt 👋
 ## Husband, Father, Doggy Dad 📫 
-## Javascript, React Developer 
-## MongoDB Student/Developer
-## Job Seeker / Still looking for first role. I think I have something to offer.
+## Javascript, React Developer 💻
+## MongoDB Student/Developer 👨‍🎓
+## Job Seeker / Have done lots of freelance work & building many ongoing projects for people. I think I have something to offer. Until then matbe I can become a successful freelancer. God only knows Been studying and struggling for 3 years now. Took a full time job as a patient service rep at Change health care in the meantime over a year ago now. My few days now with Covid-19 for the first time thank God I've had time to reflect on this wonderfully amazing journey that web development can be and should be and then again sometimes isn't lol ( IF YA KNOW WHAT I MEAN ). When I started I was scared to death I would not be able to learn this or that. What I've learned is that it will be harder to get someone to give you a shot TO learn what they need than it will be for you to learn it. So, back at it , building websites for friends and clients alike with higher aspirations for a future and a hope for older devs like who got a late start. 🩹 👼
 ## Builder/ Creator 🌱
 ## Daily Learner  🤔
 ## Community Enthusiast 😄  
