@@ -1,7 +1,7 @@
 ## Hi there I'm Jason Nutt 👋  Husband, Father 👨‍👨‍👦‍👦, Doggy Dad 🐕 🐶(We have two) 📫 Javascript 👊, React Developer 💻
 ## MongoDB Student/Developer 👨‍🎓
 ## Job Seeker /
-### Have done lots of freelance work & building many ongoing projects for people. I think I have something to offer. Until then maybe I can become a successful freelancer. God only knows? Been studying and struggling for 3 years now. Took a full time job as a patient service rep at Change health care in the meantime over a year ago now. My few days now with Covid-19 for the first time thank God I've had time to reflect on this wonderfully amazing journey that web development can be and should be and then again sometimes isn't lol ( IF YA KNOW WHAT I MEAN ). When I started I was scared to death I would not be able to learn this or that. What I've learned is that it will be harder to get someone to give you a shot TO learn what they need than it will be for you to learn it. So, back at it , building websites for friends and clients alike with higher aspirations for a future and a hope for older devs like me, who got a late start. 🩹 👼
+### Have done lots of freelance work & building many ongoing projects for people. I think I have something to offer. Until then maybe I can become a successful freelancer. God only knows? Been studying and struggling for 3 years now. Took a full time job as a patient service rep at Change health care in the meantime over a year ago now. My few days now with Covid-19 for the first time thank God I've had time to reflect on this wonderfully amazing journey that web development can be and should be and then again sometimes isn't lol ( IF YA KNOW WHAT I MEAN ). When I started I was scared to death I would not be able to learn this or that. What I've learned is that it will be harder to get someone to give you a shot TO learn what they need than it will be for you to learn it. So, back at it , building websites for friends and clients alike with higher aspirations for a future and a hope for older developers like me, who got a late start, but are hard at work and already taking their off time to learn new technologies. 🩹 👼
 ## Builder/ Creator 🌱
 ## Daily Learner  🤔
 ## Community Enthusiast 😄  
@@ -21,7 +21,8 @@
 ## The main place I will be posting things about coding and technology and things of this nature is
 [LinkeIn](https://www.linkedin.com/in/jnuttlovedisciple/)    👋 of course!
 
-
+# - 🤯 I'm blown away by the Holy Spirit leading me to build this Bible application with the time He allows after work and on the weekends. Not only does it help me to get better at coding, it also allows me to get a closer relationship with my creator God. I Hope to share the word with as many people around the world as possible. Hope y'all enjoy as I build and flesh this thing out into what it will be. God only knows 👷‍♂️
+[ The Holy Bible ]([https://waggin-rights.vercel.app/](https://the-holy-bible.vercel.app/)
 
 
 # - 🌱 I’m currently working on a website for a friend's pet sitting business called Waggin' Right's, find it here now! [ Waggin' Right's](https://waggin-rights.vercel.app/) , it is still being remodeled but it will get there for her. Thanks for letting me work on it my frind... and others.
