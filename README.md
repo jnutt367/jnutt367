@@ -22,7 +22,7 @@
 [LinkeIn](https://www.linkedin.com/in/jnuttlovedisciple/)    👋 of course!
 
 # - 🤯 I'm blown away by the Holy Spirit leading me to build this Bible application with the time He allows after work and on the weekends. Not only does it help me to get better at coding, it also allows me to get a closer relationship with my creator God. I Hope to share the word with as many people around the world as possible. Hope y'all enjoy as I build and flesh this thing out into what it will be. God only knows 👷‍♂️
-[ The Holy Bible ]([https://waggin-rights.vercel.app/](https://the-holy-bible.vercel.app/)
+[ The Holy Bible](https://the-holy-bible.vercel.app/)
 
 
 # - 🌱 I’m currently working on a website for a friend's pet sitting business called Waggin' Right's, find it here now! [ Waggin' Right's](https://waggin-rights.vercel.app/) , it is still being remodeled but it will get there for her. Thanks for letting me work on it my frind... and others.
