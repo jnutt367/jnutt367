@@ -22,9 +22,10 @@
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/48/git.png">
 <img align="left" alt="bash" width="26px" src="https://img.icons8.com/plasticine/100/bash.png">
 
-## The main place I will be posting things about coding and technology and things of this nature is
-## [LinkeIn](https://www.linkedin.com/in/jnuttlovedisciple/)    👋 of course!
-
+## The main place I will be posting things about coding, technology, my faith & things of this nature are
+## [LinkeIn](https://www.linkedin.com/in/jnuttlovedisciple/),   
+## [Facebook](https://www.facebook.com/jason.nutt.1481/),
+## [Nuttz 4 Jesus YouTube](https://www.youtube.com/@JNUTTLOVEDISCIPLE) 👏 👷‍♂️ All 3 will have different levels of updates and engagement availability as the experience & community grows. 
 ## - 🤯 I'm blown away by the Holy Spirit leading me to build this Bible application with the time He allows after work and on the weekends. Not only does it help me to get better at coding, it also allows me to get a closer relationship with my creator God. I Hope to share the word with as many people around the world as possible. Hope y'all enjoy as I build and flesh this thing out into what it will be. God only knows 👷‍♂️
 [ The Holy Bible](https://the-holy-bible.vercel.app/)
 
