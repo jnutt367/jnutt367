@@ -1,4 +1,4 @@
-## Hi there I'm Jason Nutt 👋  Husband, Father👨‍👨‍👦‍👦,
+## Hello!  👋  I'm Jason Nutt
 ## This is a complete Bible App... [ The WORD of GOD:"Risen" ](https://the-word-of-god.vercel.app/)
 ## And a bonus project called [ PARABLES ](https://jesusparables.vercel.app/) 
 ## Doggy Dad 🐕 🐶(We have two) <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"><img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"> Frontend Developer
