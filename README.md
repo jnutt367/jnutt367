@@ -19,9 +19,9 @@
 
 ### My most proud accomplishment is [ The WORD of GOD:"Risen" ](https://the-word-of-god.vercel.app/) app that I have created from scrath with create-next-app
 and added the content, routing and styling of my own. I think I have something to offer.
-Until then maybe I can become a successful freelancer. 
+## Until then, I am seeking to be successful as a freelancer. 
 ### God only knows? 
-### I earned my Treehouse Frontend Web Development Tech Degree 👨‍💻 in September of 2021 
+### I earned my Treehouse Frontend Web Development Tech Degree 👨‍💻 in September of 2020 
 
 ### I have been doing the best I can to learn and build more with the best technologies around. 
 
