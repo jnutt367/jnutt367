@@ -46,7 +46,7 @@ and added the content, routing and styling of my own. I think I have something t
 <img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/48/javascript--v2.png">
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/office/16/000000/react.png">
 <img align="left" alt="nodejs" width="26px" src="https://img.icons8.com/color/48/nodejs.png">
-<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/mongodb.png">
+<img align="left" alt="Next" width="26px" src="https://github.com/jnutt367/jnutt367/assets/63930678/a3d0de84-1246-4876-816c-c5841e4c57aa">
 <img align="left" alt="Sass" width="26px" src="https://img.icons8.com/color/48/sass.png">
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/48/git.png">
 <img align="left" alt="bash" width="26px" src="https://img.icons8.com/plasticine/100/bash.png">
