@@ -36,6 +36,7 @@ Until then maybe I can become a successful freelancer.
 ## Community Enthusiast 😄  
 ## I like to earn badges lol ⚡
 </p>
+
 ### Languages and Tools:
 <img align="left" alt="visual studio code" width="26px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png">
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
