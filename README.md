@@ -5,8 +5,10 @@
 ## <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"> Frontend Developer 🤖
 ## <img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/48/javascript--v2.png"> JavaScript Developer 👊
 ## <img align="left" alt="React" width="26px" src="https://img.icons8.com/office/16/000000/react.png"> React Developer ⚗️
-## <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/mongodb.png"> MongoDB developer 👨‍🎓
+## <img align="left" alt="MongoDB" width="26px" src="https://github.com/jnutt367/jnutt367/assets/63930678/a3d0de84-1246-4876-816c-c5841e4c57aa"> Next.js developer 👨‍🎓
 ## Daily learner, daily contributer!
+
+
 
 ## I am a Software developer who is now passionately working on Next.js & React related projects
 ## - 👯 I’m looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open.
