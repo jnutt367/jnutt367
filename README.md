@@ -46,14 +46,10 @@ Until then maybe I can become a successful freelancer.
 ## [Facebook](https://www.facebook.com/jason.nutt.1481/),
 ## [The WORD of GOD: "Risen"](https://www.youtube.com/@JNUTTLOVEDISCIPLE) 👏 👷‍♂️ All 3 will have different levels of updates and engagement availability as the Bible building experience & community therein grows. Hallelujah! Subscribe to the YouTube channel if you are interested in growing & or supporting the growth of this project and the community of Jesus' disciples around the world. May love and faith be your guide. God bless you all.  
 ## - 🤯 I'm blown away by the Holy Spirit leading me to build this Bible application with the time He allows after work and on the weekends. Not only does it help me to get better at coding, it also allows me to get a closer relationship with my creator God. I Hope to share the word with as many people around the world as possible. Hope y'all enjoy as I build and flesh this thing out into what it will be. God only knows 👷‍♂️
-[ The Holy Bible](https://the-holy-bible.vercel.app/)
-
-
-## - 🌱 I’m also currently working on a website for a friend's pet sitting business called Waggin' Right's, find it here now! [ Waggin' Right's](https://waggin-rights.vercel.app/) , it is still being remodeled but it will get there for her. Thanks for letting me work on it my friend... and others.
-### Expanding on an E-Commerce site. Adding extra features each iteration. The series I have followed to get this far is the [Jumpstart 2021 series](https://www.youtube.com/playlist?list=PL4RCxklHWZ9v2lcat4oEVGQhZg6r4IQGV) and I have made it this far check it out [JNutt's Tech Store Next.js app](https://estore-swart.vercel.app/)
+[ The Word of God Risen](https://thewordofgodrisen.vercel.app/)
 
 ## - 👯 I’m looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open.
-## - 🤔 I’m also looking for help with ... Finding my first Professional Role with a company building react(Next.js) apps and/or websites. 
+## - 🤔 I’m also looking for help with ... Finding my first Professional Role with a company building react(Next.js) apps and/or websites that I can contribute value towards. 
 ## - 💬 Ask me about ...How I got into this?
 ## - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
 ## - 😄 Pronouns: ...He/Him
