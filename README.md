@@ -1,5 +1,5 @@
 ## Hello!  👋  I'm Jason Nutt
-## A Dedicated Christian Software Developer 📟
+## A Dedicated Software Developer 📟
 ## Doggy Dad 🐕  🐶   (We have two)
 ## <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
 ## <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"> Frontend Developer 🤖
