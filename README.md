@@ -6,10 +6,17 @@
 ## <img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/48/javascript--v2.png"> JavaScript Developer 👊
 ## <img align="left" alt="React" width="26px" src="https://img.icons8.com/office/16/000000/react.png"> React Developer ⚗️
 ## <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/mongodb.png"> MongoDB developer 👨‍🎓
-## Daily learner, daily contributer, looking to grow & for opportunity!
+## Daily learner, daily contributer!
 
-### I am a Software developer who likes to create and design websites and apps and learn how to improve my abilities therein.
-I Have done lots of freelance work & building many ongoing projects for people. 
+## I am a Software developer who is now passionately working on Next.js & React related projects
+## - 👯 I’m looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open.
+## - 🤔 I’m also looking for help with ... Finding my first Professional Role with a company building react(Next.js) apps and/or websites that I can contribute value towards. 
+## - 💬 Ask me about ...How I got into this?
+## - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
+## - 😄 Pronouns: ...He/Him
+## - ⚡ Fun fact: ...my left foot has two webbed toes!
+## - ⚡ Not so fun fact: ...No , I don't swim in circles!
+
 ### My most proud accomplishment is [ The WORD of GOD:"Risen" ](https://the-word-of-god.vercel.app/) app that I have created from scrath with create-next-app
 and added the content, routing and styling of my own. I think I have something to offer.
 Until then maybe I can become a successful freelancer. 
@@ -48,11 +55,5 @@ Until then maybe I can become a successful freelancer.
 ## - 🤯 I'm blown away by the Holy Spirit leading me to build this Bible application with the time He allows after work and on the weekends. Not only does it help me to get better at coding, it also allows me to get a closer relationship with my creator God. I Hope to share the word with as many people around the world as possible. Hope y'all enjoy as I build and flesh this thing out into what it will be. God only knows 👷‍♂️
 [ The Word of God Risen](https://thewordofgodrisen.vercel.app/)
 
-## - 👯 I’m looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open.
-## - 🤔 I’m also looking for help with ... Finding my first Professional Role with a company building react(Next.js) apps and/or websites that I can contribute value towards. 
-## - 💬 Ask me about ...How I got into this?
-## - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
-## - 😄 Pronouns: ...He/Him
-## - ⚡ Fun fact: ...my left foot has two webbed toes!
-## - ⚡ Not so fun fact: ...No , I don't swim in circles!
+
 
