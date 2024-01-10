@@ -6,15 +6,16 @@
 ## <img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/48/javascript--v2.png"> JavaScript Developer 👊
 ## <img align="left" alt="React" width="26px" src="https://img.icons8.com/office/16/000000/react.png"> React Developer ⚗️
 ## <img align="left" alt="MongoDB" width="26px" src="https://github.com/jnutt367/jnutt367/assets/63930678/a3d0de84-1246-4876-816c-c5841e4c57aa"> Next.js developer 👨‍🎓
-## Daily learner, daily contributer!
-
-
-
+## Daily learner, daily contributer! 👨‍🎨
 ## I am a Software developer who is now passionately working on Next.js & React related projects
-## - 👯 I’m looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open.
-## - 🤔 I’m also looking for help with ... Finding my first Professional Role with a company building react(Next.js) apps and/or websites that I can contribute value towards. 
-## - 💬 Ask me about ...How I got into this?
+## - 🤔 I’m also up for hire for freelancing and consultancy jobs.
 ## - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
+
+
+## - 👯 I’m looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open.
+
+## - 💬 Ask me about ...How I got into this?
+
 ## - 😄 Pronouns: ...He/Him
 ## - ⚡ Fun fact: ...my left foot has two webbed toes!
 ## - ⚡ Not so fun fact: ...No , I don't swim in circles!
