@@ -1,11 +1,11 @@
 ## Hello!  👋  I'm Jason Nutt
 ## A Dedicated Christian Software Developer 📟
-## Doggy Dad 🐕 🐶(We have two)
+## Doggy Dad 🐕  🐶   (We have two)
 ## <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
-## <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"> Frontend Developer
-## <img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/48/javascript--v2.png"> JavaScript Developer 👊,
-## <img align="left" alt="React" width="26px" src="https://img.icons8.com/office/16/000000/react.png"> React Developer ⚗️,
-## <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/mongodb.png"> MongoDB Developer 👨‍🎓
+## <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"> Frontend Developer 🤖
+## <img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/48/javascript--v2.png"> JavaScript Developer 👊
+## <img align="left" alt="React" width="26px" src="https://img.icons8.com/office/16/000000/react.png"> React Developer ⚗️
+## <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/mongodb.png"> MongoDB developer 👨‍🎓
 ## Daily learner, daily contributer, looking to grow & for opportunity!
 
 ### I am a Software developer who likes to create and design websites and apps and learn how to improve my abilities therein.
