@@ -1,4 +1,4 @@
-## Hello!  👋  I'm Jason Nutt
+## Hi there!  👋  I'm Jason Nutt
 
 ## <p style="text-align: center;">A Dedicated Software Developer 📟 </p>
 ## Doggy Dad 🐕  🐶   (We have two)
