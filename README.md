@@ -1,4 +1,4 @@
-## Hi there!  👋  I'm Jason Nutt
+##  👋   Hi there!   I'm Jason Nutt
 
 ## <p style="text-align: center;">📟  Experienced Freelance Software Developer</p>
 ## <p style="text-align: center;"> 👨‍🎓 Apprentice Software Engineer  at [The Agile Learning Institute](https://agile-learning.institute/)</p>
