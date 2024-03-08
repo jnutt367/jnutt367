@@ -56,8 +56,8 @@ I think I have something to offer.
 <img align="left" alt="bash" width="26px" src="https://img.icons8.com/plasticine/100/bash.png">
 
 ## The main 3 places I will be posting things about coding, technology, my faith & things of this nature are
-## [LinkeIn](https://www.linkedin.com/in/jnuttlovedisciple/),   
-## [Facebook](https://www.facebook.com/jason.nutt.1481/),
+## [LinkeIn]([https://www.linkedin.com/in/jnuttlovedisciple/](https://www.linkedin.com/in/technutt/)),   
+## [Facebook](https://www.facebook.com/DiscipleofChristJasonNutt)
 
 
 
