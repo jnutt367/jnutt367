@@ -56,9 +56,7 @@ and added the content, routing and styling of my own. I think I have something t
 ## The main 3 places I will be posting things about coding, technology, my faith & things of this nature are
 ## [LinkeIn](https://www.linkedin.com/in/jnuttlovedisciple/),   
 ## [Facebook](https://www.facebook.com/jason.nutt.1481/),
-## [The WORD of GOD: "Risen"](https://www.youtube.com/@JNUTTLOVEDISCIPLE) 👏 👷‍♂️ All 3 will have different levels of updates and engagement availability as the Bible building experience & community therein grows. Hallelujah! Subscribe to the YouTube channel if you are interested in growing & or supporting the growth of this project and the community of Jesus' disciples around the world. May love and faith be your guide. God bless you all.  
-## - 🤯 I'm blown away by the Holy Spirit leading me to build this Bible application with the time He allows after work and on the weekends. Not only does it help me to get better at coding, it also allows me to get a closer relationship with my creator God. I Hope to share the word with as many people around the world as possible. Hope y'all enjoy as I build and flesh this thing out into what it will be. God only knows 👷‍♂️
-[ The Word of God Risen](https://thewordofgodrisen.vercel.app/)
+
 
 
 
