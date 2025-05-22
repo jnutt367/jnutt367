@@ -20,7 +20,7 @@
 ## - ⚡ Fun fact: ...my left foot has two webbed toes!
 ## - ⚡ Not so fun fact: ...No , I don't swim in circles!
 
-### My most proud accomplishment is [ The WORD of GOD:"Risen" ](https://the-word-of-god.vercel.app/) app that I have created from scrath with create-next-app
+### My most proud accomplishment is [ The WORD of GOD:"Risen" ](https://wordofgod.vercel.app/) app that I have created from scrath with create-next-app
 and added the content, routing and styling of my own.
 ### I will be re-factoring this project as I go through the curricvulum and make the bible I have with the best practices and more modern styling and routing in order to learn and become better at my craft.
 I think I have something to offer.
