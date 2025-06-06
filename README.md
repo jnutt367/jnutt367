@@ -1,4 +1,4 @@
-##     Hi there, &nbsp 👋   I'm Jason!
+##     Hi there, 👋   I'm Jason!
 
 
 ## <p style="text-align: center;">  A Software Developer 🖥 and proud Dad 🚼 </p>
