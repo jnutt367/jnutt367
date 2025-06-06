@@ -25,7 +25,7 @@
 
 
 ## - 👀 looking to collaborate on ...
-##       Anything that we both or all find useful and exciting, I'm open to new opportunities and colaborations!
+## -     Anything that we both or all find useful and exciting, I'm open to new opportunities and colaborations!
 
 ## - 💬 Ask me about ...The differences between a library and a framework, 
 ## - 💬 ... The differences between React and Next.js and how javascript fits into it all.
