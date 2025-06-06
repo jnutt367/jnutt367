@@ -84,7 +84,7 @@
 ## [LinkedIn](https://www.linkedin.com/in/technutt/),   
 ## [Facebook](https://www.facebook.com/DiscipleofChristJasonNutt)
 
-## Please feell free to reach out for any job opportunities and/or colaboration efforts that you may have in mind.
+## Please feel free to reach out for any job opportunities and/or colaboration efforts that you may have in mind.
 
 ## Sincerely,
 # Jason Daniel Nutt
