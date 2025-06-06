@@ -23,6 +23,9 @@
 ## - I mean come on man! Your kids are depending on you my dude!
 ## -  So, I am steadily improving my familiarity with a vast variety of technologies, coding languages,libraries and frameworks. 
 ## -  While assessing the growing and transforming world of technology and the overall landscape of the web in order that I have a clearer picture daily of where I may prove to be ever more useful in that world.
+## - I'm currently working for Federal Student Aid as a Tier 1 CSR and seeing the other end (the user end) of salesforce CRM and it is awesome what you can learn from looking at it from a different perspective.
+## - Now I am gpoing to re-iterate through the Salesforce courses I have completed to see if they make more sense now.
+## - I bet they do!
 ## -  I am a die-hard MJ (Michael Jordan) fan so getting in work and learning to master my craft is the mentality that I hold onto as a model of how to become great at something.
 ## - 🤔 I’m also up for hire for freelancing and consultancy jobs.
 ## - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
