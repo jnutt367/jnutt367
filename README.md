@@ -43,7 +43,8 @@
 ## - ⚡ Fun fact: ...my left foot has two webbed toes!
 ## - ⚡ Not so fun fact: ...No , I don't swim in circles!
 
-### My most proud accomplishment is [ The WORD of GOD:"Risen" ](https://wordofgod.vercel.app/) app that I have created from scrath with create-next-app and added the content, routing and styling of my own.
+### My most proud accomplishment is [ The WORD of GOD:"Risen" ](https://wordofgod.vercel.app/) app that I have created from scratch with create-next-app and added the content, routing and styling of my own and built the database with .json inside of the Next.js framework from scratch as well.
+### I have put in years on this project and I am continuing to look into ways to improve or even make a new one if that seems feasable or if I learn something that says to me ...oh we camn make it so much easier for our users doing it this way.
 ### I will be re-factoring this project as I go through the curriculum and make the bible I have with the best practices and more modern styling and routing in order to learn and become better at my craft.
 ### I know that I have something to offer.
 ## Until then, I am seeking to be successful as a freelancer. 
