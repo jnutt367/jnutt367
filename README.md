@@ -16,7 +16,7 @@
 
 <hr>
 
-## Daily learner, daily contributer! 👨‍🎨
+## Daily learner, daily contributer! 🤸🏻‍♂️
 ##  - A Software developer who got a late start in tech, way back in the year of our Lord 2020... 😅
 ## -  Steadily getting better and more familiar with a vast variety of technologies, coding languages,libraries and frameworks. 
 ## -  As well as all the other aspects of the growing world of technology and the overall landscape of the web.
