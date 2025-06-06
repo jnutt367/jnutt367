@@ -63,8 +63,7 @@
 ## Job Seeker 📝
 ## Daily Learner  🤔
 ## Community Enthusiast 😄  
-## I like to earn badges lol ⚡
-
+## I like to earn badges lol 🎫
 
 ### Languages and Tools:
 <img align="left" alt="visual studio code" width="26px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png">
