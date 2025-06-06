@@ -12,9 +12,12 @@
 ## - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
 
 
-## - 👯 I’m looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open.
+## - 👯 I’m looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open to new opportunities and colaborations!
 
-## - 💬 Ask me about ...How I got into this?
+## - 💬 Ask me about ...The differences between a library and a framework, 
+##                    ... The differences between React and Next.js and how javascript fits into it all.
+##                     ... The challenges I faced when initially learning how top use Github.
+##                     ... Anything related to coding things out from scratch or learning the beginingss (and PAIN-POINTS) of the coding journey. 
 
 ## - 😄 Pronouns: ...He/Him
 ## - ⚡ Fun fact: ...my left foot has two webbed toes!
