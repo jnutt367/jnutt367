@@ -7,7 +7,7 @@
 ## <img align="left" alt="React" width="26px" src="https://img.icons8.com/office/16/000000/react.png"> React Developer ⚗️
 ## <img align="left" alt="MongoDB" width="26px" src="https://github.com/jnutt367/jnutt367/assets/63930678/a3d0de84-1246-4876-816c-c5841e4c57aa"> Next.js developer 👨‍🎓
 ## Daily learner, daily contributer! 👨‍🎨
-## I am a Software developer Dad who got a late start in Tech.
+## I am a Software developer and proud Dad, who got a late start in Tech.
 ## - 🤔 I’m also up for hire for freelancing and consultancy jobs.
 ## - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
 
@@ -22,7 +22,7 @@
 
 ### My most proud accomplishment is [ The WORD of GOD:"Risen" ](https://wordofgod.vercel.app/) app that I have created from scrath with create-next-app
 and added the content, routing and styling of my own.
-### I will be re-factoring this project as I go through the curricvulum and make the bible I have with the best practices and more modern styling and routing in order to learn and become better at my craft.
+### I will be re-factoring this project as I go through the curriculum and make the bible I have with the best practices and more modern styling and routing in order to learn and become better at my craft.
 I think I have something to offer.
 ## Until then, I am seeking to be successful as a freelancer. 
 ### God only knows? 
