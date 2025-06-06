@@ -10,9 +10,10 @@
 
 <hr>
 
+## <img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/48/javascript--v2.png">  
 ## <img align="left" alt="React" width="26px" src="https://img.icons8.com/office/16/000000/react.png">  
 ## <img align="left" alt="Nextjs" width="26px" src="https://github.com/jnutt367/jnutt367/assets/63930678/a3d0de84-1246-4876-816c-c5841e4c57aa"> 
-## <img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/48/javascript--v2.png">  
+
 
 ## Daily learner, daily contributer! 👨‍🎨
 ## I am a Software developer and proud Dad, who got a late start in Tech.
@@ -20,7 +21,7 @@
 ## - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
 
 
-## - 👯 I’m looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open to new opportunities and colaborations!
+## - 👀 looking to collaborate on ...Anything that we both or all find useful and exciting, I'm open to new opportunities and colaborations!
 
 ## - 💬 Ask me about ...The differences between a library and a framework, 
 ##                    ... The differences between React and Next.js and how javascript fits into it all.
