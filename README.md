@@ -17,7 +17,9 @@
 <hr>
 
 ## Daily learner, daily contributer! 👨‍🎨
-## I am a Software developer who got a late start in Tech.
+## I am a Software developer who got a late start in Tech way back in the year of our Lord 2 thousand and Twenty. 😅
+## I have been steadily getting better and more familiar with a vast variety of technologies, coding languages and libraries and frameworks.
+## I am a die-hard MJ (Michael Jordan) fan so getting in work and learning to master my craft is the mentality that I hold onto as a model of how to become great at something.
 ## - 🤔 I’m also up for hire for freelancing and consultancy jobs.
 ## - 📫 How to reach me: ...jnutt367@gmail.com or 407-687-7889
 
