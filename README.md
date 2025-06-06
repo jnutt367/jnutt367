@@ -34,7 +34,10 @@
 ## - 💬 ... The differences between a library and a framework, 
 ## - 💬 ... The differences between React and Next.js and how javascript fits into it all.
 ## - 💬 ... The challenges I faced when initially learning how to use Github.
-## - 💬 ... Anything related to coding things out from scratch or learning the foundational languages of coding, anything related to building and deploying applications, the ins-and-outs (and PAIN-POINTS) of MY coding journey thus far. 
+## - 💬 ... Anything related to coding things out from scratch 
+## - 💬 ... or learning the foundational languages of coding
+## - 💬 ... anything related to building and deploying applications
+## - 💬 ... the ins-and-outs (and PAIN-POINTS) of MY coding journey thus far. 
 
 ## - 😄 Pronouns: ...He/Him
 ## - ⚡ Fun fact: ...my left foot has two webbed toes!
