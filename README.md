@@ -40,12 +40,13 @@
 ## - ⚡ Fun fact: ...my left foot has two webbed toes!
 ## - ⚡ Not so fun fact: ...No , I don't swim in circles!
 
-### My most proud accomplishment is [ The WORD of GOD:"Risen" ](https://wordofgod.vercel.app/) app that I have created from scrath with create-next-app
-and added the content, routing and styling of my own.
+### My most proud accomplishment is [ The WORD of GOD:"Risen" ](https://wordofgod.vercel.app/) app that I have created from scrath with create-next-app and added the content, routing and styling of my own.
 ### I will be re-factoring this project as I go through the curriculum and make the bible I have with the best practices and more modern styling and routing in order to learn and become better at my craft.
-I think I have something to offer.
+### I know that I have something to offer.
 ## Until then, I am seeking to be successful as a freelancer. 
-### God only knows? 
+
+<hr>
+
 ### I earned my Treehouse Frontend Web Development Tech Degree 👨‍💻 in September of 2020 
 
 ### I have been doing the best I can to learn and build more with the best technologies around. 
@@ -74,7 +75,7 @@ I think I have something to offer.
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/48/git.png">
 <img align="left" alt="bash" width="26px" src="https://img.icons8.com/plasticine/100/bash.png">
 
-## The main 3 places I will be posting things about coding, technology, my faith & things of this nature are
+## The main places I will be posting things about coding, technology, my faith & things of this nature are
 ## [LinkedIn](https://www.linkedin.com/in/technutt/),   
 ## [Facebook](https://www.facebook.com/DiscipleofChristJasonNutt)
 
