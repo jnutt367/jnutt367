@@ -81,7 +81,7 @@
 
 <hr>
 
-## The main places I will be posting things about coding, technology, my faith & things of this nature are
+## The main places I will be posting things about coding, technology, career growth within this arena & things of this nature are
 ## [LinkedIn](https://www.linkedin.com/in/technutt/),   
 ## [Facebook](https://www.facebook.com/DiscipleofChristJasonNutt)
 
