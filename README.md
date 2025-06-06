@@ -2,7 +2,7 @@
 
 
 ## <p style="text-align: center;">  A Software Developer 🖥 and proud Dad 🧗🏻‍♂️ </p>
-## HTML5/CSS3/JavaScript/React/Next.js Developer 💻
+## HTML/CSS/JavaScript/React/Next.js Developer 💻
 
 ## <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
 ## <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
