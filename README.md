@@ -59,7 +59,7 @@
 ### When I started I was scared to death I would not be able to learn this or that. What I've learned is that it will be harder to get someone to give you a shot TO learn what they need than it will be for you to learn it. 
 
 ### So, back at it , building websites for friends and clients alike with higher aspirations for a future and a hope for older developers like me, who got a late start, but are hard at work and already taking their off time to learn new technologies and create beautiful creations with them. 🩹 👼
-## Builder/ Creator 👷🏻‍♂️🧩🖥
+## Builder/ Coder/ Creator 👷🏻‍♂️/🧩/🖥
 ## Job Seeker 📝
 ## Daily Learner  🤔
 ## Community Enthusiast 😄  
