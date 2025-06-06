@@ -9,6 +9,7 @@
 
 
 <hr>
+
 ## <img align="left" alt="React" width="26px" src="https://img.icons8.com/office/16/000000/react.png">  
 ## <img align="left" alt="Nextjs" width="26px" src="https://github.com/jnutt367/jnutt367/assets/63930678/a3d0de84-1246-4876-816c-c5841e4c57aa"> 
 ## <img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/48/javascript--v2.png">  
