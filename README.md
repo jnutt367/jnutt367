@@ -61,7 +61,7 @@
 ## Daily Learner  🤔
 ## Community Enthusiast 😄  
 ## I like to earn badges lol ⚡
-</p>
+
 
 ### Languages and Tools:
 <img align="left" alt="visual studio code" width="26px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png">
@@ -74,6 +74,8 @@
 <img align="left" alt="Sass" width="26px" src="https://img.icons8.com/color/48/sass.png">
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/48/git.png">
 <img align="left" alt="bash" width="26px" src="https://img.icons8.com/plasticine/100/bash.png">
+
+<hr>
 
 ## The main places I will be posting things about coding, technology, my faith & things of this nature are
 ## [LinkedIn](https://www.linkedin.com/in/technutt/),   
