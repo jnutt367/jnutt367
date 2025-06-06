@@ -18,7 +18,9 @@
 
 ## Daily learner, daily contributer! 🤸🏻‍♂️
 ##  - A Software developer who got a late start in tech, way back in the year of our Lord 2020... 😅
-## -  Steadily getting better and more familiar with a vast variety of technologies, coding languages,libraries and frameworks. 
+## - Remember Covid? Well that was the catalyst for me to get off my butt and get to work to find a REAL future that will not go away because I lose the abilty to wait tables as if I were forever 20 years old.
+## I mean come on man! Your kids are depending on you my dude!
+## -  SO, I am steadily getting better and more familiar with a vast variety of technologies, coding languages,libraries and frameworks. 
 ## -  As well as all the other aspects of the growing world of technology and the overall landscape of the web.
 ## -  I am a die-hard MJ (Michael Jordan) fan so getting in work and learning to master my craft is the mentality that I hold onto as a model of how to become great at something.
 ## - 🤔 I’m also up for hire for freelancing and consultancy jobs.
