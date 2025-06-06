@@ -14,6 +14,7 @@
 ## <img align="left" alt="React" width="26px" src="https://img.icons8.com/office/16/000000/react.png">  
 ## <img align="left" alt="Nextjs" width="26px" src="https://github.com/jnutt367/jnutt367/assets/63930678/a3d0de84-1246-4876-816c-c5841e4c57aa"> 
 
+<hr>
 
 ## Daily learner, daily contributer! 👨‍🎨
 ## I am a Software developer who got a late start in Tech.
