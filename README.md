@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Jason Nutt</h1>
+<h1 align="center"> Hello, I'm Jason Nutt  👋</h1>
 <h3 align="center">Software Developer • Bible App Creator • Founder of Jesus Love Revealed</h3>
 
 <p align="center">
