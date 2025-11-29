@@ -127,16 +127,6 @@ If the Lord leads you to support the work:
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/color/48/git.png">
 <img align="left" alt="bash" width="26px" src="https://img.icons8.com/plasticine/100/bash.png">
 
-<hr>
 
-## The main places I will be posting things about coding, technology, career growth within this arena & things of this nature are
-## [LinkedIn](https://www.linkedin.com/in/technutt/),   
-## [Facebook](https://www.facebook.com/DiscipleofChristJasonNutt)
-
-## Please feel free to reach out for any job opportunities and/or colaboration efforts that you may have in mind.
-
-## Sincerely,
-# Jason Daniel Nutt
-### Aspiring for greatness for future generations.
 
 
