@@ -108,12 +108,7 @@ If the Lord leads you to support the work:
 
 <p align="center">
   <em>“Then you will know the truth, and the truth will set you free.” — John 8:32</em>
-</p>👼
-## Builder/ Coder/ Creator 👷🏻‍♂️ / 🧩/ 🖥 ⌨️
-## Job Seeker 📝
-## Daily Learner  🤔
-## Community Enthusiast 😄  
-## I like to earn badges lol 🎫
+</p>
 
 ### Languages and Tools:
 <img align="left" alt="visual studio code" width="26px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png">
