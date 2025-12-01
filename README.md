@@ -202,7 +202,6 @@ Footer badges
 
 
 <p align="center">
-  [![Sponsor](https://img.shields.io/github/sponsors/jnutt367?logo=github)](https://github.com/sponsors/jnutt367)
   
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web%20Dev-blue" />
   <img src="https://img.shields.io/badge/Ministry-Jesus%20Love%20Revealed-red" />
