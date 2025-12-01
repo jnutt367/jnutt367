@@ -122,6 +122,8 @@ If the Lord leads you to support the work:
 
 
 
+<hr>
+
 # Jason Nutt — Software Developer | Founder, Jesus Love Revealed
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/jnutt367/jnutt367/ci.yml?label=build&logo=github)](https://github.com/jnutt367/jnutt367/actions)
