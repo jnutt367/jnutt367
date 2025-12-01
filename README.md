@@ -197,6 +197,16 @@ Quote / mission
 > “Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to Him, and He will make your paths straight.” — Proverbs 3:5–6
 
 Footer badges
-[![Build Status](https://img.shields.io/github/actions/workflow/status/jnutt367/jnutt367/ci.yml?label=build&logo=github)](https://github.com/jnutt367/jnutt367/actions)  
-[![License](https://img.shields.io/github/license/jnutt367/jnutt367)](https://github.com/jnutt367/jnutt367/blob/main/LICENSE)  
+[![Build Status](https://img.shields.io/github/sponsors/jnutt367?logo=github)](https://github.com/sponsors/jnutt367)
+[![License](https://img.shields.io/github/sponsors/jnutt367?logo=github)](https://github.com/sponsors/jnutt367)
 [![Sponsor](https://img.shields.io/github/sponsors/jnutt367?logo=github)](https://github.com/sponsors/jnutt367)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web%20Dev-blue" />
+  <img src="https://img.shields.io/badge/Ministry-Jesus%20Love%20Revealed-red" />
+  <img src="https://img.shields.io/badge/Favorite%20Verse-Proverbs%203%3A5--6-gold" />
+  <img src="https://img.shields.io/badge/YouTube-Global%20Bible%20Month%20Challenge-lightgrey" />
+</p>
+
+
+
