@@ -183,9 +183,9 @@ Hiring / collaboration summary (quick elevator pitch for hiring managers)
 
 Contact & links
 - GitHub: https://github.com/jnutt367
-- Email (business): REPLACE_WITH_EMAIL@example.com
-- YouTube / Video demos: https://www.youtube.com/results?search_query=Jesus+Love+Revealed
-- Portfolio / Live demo: REPLACE_WITH_DEMO_URL
+- Email (business): jnutt367@gmail.com.com
+- YouTube / Video demos: [https://www.youtube.com/results?search_query=Jesus+Love+Revealed](https://www.youtube.com/@jesusloverevealed)
+- Portfolio / Live demo: [REPLACE_WITH_DEMO_URL](https://youtube.com/shorts/qeZjFexBpDc?si=P-ixw3H5FCuzf0-Y)
 
 Support the ministry
 - If you'd like to support development of Jesus Love Revealed, please link to a central donations or sponsorship page rather than a personal payment handle. Consider GitHub Sponsors or a ministry donation portal.
