@@ -15,7 +15,7 @@ Animated, Grandpa Teddy–narrated book overviews, parable Shorts, and an animat
 **🛍 TruVINE Store** — [truvine.printify.me](https://truvine.printify.me)
 On-brand Christian apparel and gifts tied to the channel's release schedule — priced to be giftable and to sustain the ministry.
 
-**🌱 Abide** *(in progress)* — a daily rhythm tracker: habits, streaks, a week chart, and a verse of the day.
+**🌱 Abide** *(working prototype — complete)* — a daily rhythm tracker: habits, streaks, a week chart, and a verse of the day. Dependency-free vanilla JS with pure, Node-testable date logic and a fully documented architecture.
 
 ## Tech stack
 
