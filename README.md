@@ -28,6 +28,7 @@ JavaScript · React · Next.js · HTML/CSS · Tailwind · JSON content pipelines
 ## Let's connect
 
 - Email: jnutt367@gmail.com
+- LinkedIn: [technutt](https://www.linkedin.com/in/technutt)
 - Facebook: [DiscipleofChristJasonNutt](https://www.facebook.com/DiscipleofChristJasonNutt)
 - Open to collaborations on Christian apps, tools, and digital ministry resources.
 
