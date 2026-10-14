@@ -4,6 +4,8 @@ Full-stack JavaScript developer (React / Next.js) building Scripture-centered di
 
 By day I'm a Tier 1 customer service representative at Federal Student Aid. The ministry and the code are the work I build the rest of my life around.
 
+Built while working full-time in federal student aid support.
+
 My standing ask of every colleague and assistant, on projects massive and small alike: if it matters, it's instrumented — measured, source-labeled, and verified before it's reported.
 
 ## What I've built
