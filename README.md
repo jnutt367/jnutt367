@@ -4,7 +4,7 @@ Full-stack JavaScript developer (React / Next.js) building Scripture-centered di
 
 By day I'm a Tier 1 customer service representative at Federal Student Aid. The ministry and the code are the work I build the rest of my life around.
 
-On every project — massive or small — my standing ask of colleagues and assistants alike is the same: instrument it, label the source, and verify before we report.
+My standing ask of every colleague and assistant, on projects massive and small alike: if it matters, it's instrumented — measured, source-labeled, and verified before it's reported.
 
 ## What I've built
 
@@ -12,7 +12,9 @@ On every project — massive or small — my standing ask of colleagues and assi
 A free Bible reader with all 66 books plus the lost books (Enoch, Jasher, Jubilees, the Apocrypha) — 78 books in the WEB and KJV translations, 7 reading plans, and a complete audio Bible (all 1,503 chapters) narrated in one warm grandfatherly voice. No login, no friction — just the Word.
 
 **🎬 TruVINE on YouTube** — [@TruVINE365](https://www.youtube.com/channel/UC1ryMv3ldYCOgshChVrqZNQ)
-Animated, Grandpa Teddy–narrated book overviews, parable Shorts, and an animated Gospel film series (Mark first). 840 subscribers · 153,837 views · 375 videos *(Oct 12, 2026)*.
+Animated, Grandpa Teddy–narrated book overviews, parable Shorts, and an animated Gospel film series (Mark first) — directed and produced through AI-Directed Animation Production. 841 subscribers · 154,398 views · 375 videos *(Oct 13, 2026)*.
+
+Salesforce Trailhead — Expeditioner · 162 badges · 43,675 points · Agentblazer Champion 2025.
 
 **🛍 TruVINE Store** — [truvine.printify.me](https://truvine.printify.me)
 On-brand Christian apparel and gifts tied to the channel's release schedule — priced to be giftable and to sustain the ministry.
@@ -32,6 +34,9 @@ JavaScript · React · Next.js · HTML/CSS · Tailwind · JSON content pipelines
 - Email: jnutt367@gmail.com
 - Portfolio: [jasonnutt2027softwaredeveloper.vercel.app](https://jasonnutt2027softwaredeveloper.vercel.app/)
 - LinkedIn: [technutt](https://www.linkedin.com/in/technutt)
+- Trailhead: [jnutt367](https://www.salesforce.com/trailblazer/jnutt367)
+- Credly: [jason-nutt](https://www.credly.com/users/jason-nutt)
+- W3Schools: [jason-nutt](https://www.w3profile.com/jason-nutt)
 - Facebook: [DiscipleofChristJasonNutt](https://www.facebook.com/DiscipleofChristJasonNutt)
 - Open to collaborations on Christian apps, tools, and digital ministry resources.
 
