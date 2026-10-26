@@ -14,9 +14,9 @@ My standing ask of every colleague and assistant, on projects massive and small 
 A free Bible reader with all 66 books plus the lost books (Enoch, Jasher, Jubilees, the Apocrypha) — 78 books in the WEB and KJV translations, 7 reading plans, and a complete audio Bible (all 1,503 chapters) narrated in one warm grandfatherly voice. No login, no friction — just the Word.
 
 **🎬 TruVINE on YouTube** — [@TruVINE365](https://www.youtube.com/channel/UC1ryMv3ldYCOgshChVrqZNQ)
-Animated, Grandpa Teddy–narrated book overviews, parable Shorts, and an animated Gospel film series (Mark first) — directed and produced through AI-Directed Animation Production. 841 subscribers · 154,398 views · 375 videos *(Oct 13, 2026)*.
+Animated, Grandpa Teddy–narrated book overviews, parable Shorts, and an animated Gospel film series (Mark first) — directed and produced through AI-Directed Animation Production. 924 subscribers · 158,819 views · 385 videos *(Oct 26, 2026)*.
 
-Salesforce Trailhead — Expeditioner · 162 badges · 43,675 points · Agentblazer Champion 2025.
+Salesforce Trailhead — Expeditioner · 167 badges · 44,800 points · Agentblazer Champion 2025.
 
 **🛍 TruVINE Store** — [truvine.printify.me](https://truvine.printify.me)
 On-brand Christian apparel and gifts tied to the channel's release schedule — priced to be giftable and to sustain the ministry.
